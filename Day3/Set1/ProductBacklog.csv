@@ -1,0 +1,13 @@
+Reference ID,Issue Type,Epic ID,Epic Name,Summary,User Story,MoSCoW Priority,Jira Priority,Story Points,Status,Labels
+OSA-101,Story,EPIC-01,Browse and Search,Browse Product Categories,"As a customer, I want to browse products by category so that I can find relevant items easily.",Must Have,High,3,To Do,must-have
+OSA-102,Story,EPIC-01,Browse and Search,Search Products,"As a customer, I want to search products by keyword so that I can quickly locate an item.",Must Have,High,5,To Do,must-have
+OSA-103,Story,EPIC-01,Browse and Search,Filter Products,"As a customer, I want to filter products by price range so that I can find items within my budget.",Should Have,Medium,5,To Do,should-have
+OSA-104,Story,EPIC-01,Browse and Search,View Product Details,"As a customer, I want to view product descriptions, prices, and availability so that I can make informed purchasing decisions.",Must Have,High,3,To Do,must-have
+OSA-105,Story,EPIC-02,Cart and Checkout,Add to Cart,"As a customer, I want to add available products to my cart so that I can purchase them during checkout.",Must Have,High,3,To Do,must-have
+OSA-106,Story,EPIC-02,Cart and Checkout,Update Cart Quantity,"As a customer, I want to change product quantities in my cart so that I can adjust my order.",Should Have,Medium,3,To Do,should-have
+OSA-107,Story,EPIC-02,Cart and Checkout,Secure Payment,"As a customer, I want to pay using a supported payment method so that I can complete my purchase securely.",Must Have,High,8,To Do,must-have
+OSA-108,Story,EPIC-02,Cart and Checkout,Order Confirmation,"As a customer, I want to receive an order confirmation so that I can verify my successful purchase.",Must Have,High,3,To Do,must-have
+OSA-109,Story,EPIC-03,Delivery Tracking,View Order Status,"As a customer, I want to view my order status so that I can track its progress.",Must Have,High,3,To Do,must-have
+OSA-110,Story,EPIC-03,Delivery Tracking,Estimated Delivery Date,"As a customer, I want to see the estimated delivery date so that I can plan to receive my order.",Should Have,Medium,3,To Do,should-have
+OSA-111,Story,EPIC-03,Delivery Tracking,Delivery Notifications,"As a customer, I want to receive a notification when my order ships so that I know delivery is in progress.",Could Have,Low,5,To Do,could-have
+OSA-112,Story,EPIC-03,Delivery Tracking,Delivery History,"As a customer, I want to view my order's delivery history so that I can review its status changes.",Could Have,Low,3,To Do,could-have
