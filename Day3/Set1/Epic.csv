@@ -1,0 +1,4 @@
+Epic ID,Epic Name,Epic Description,Jira Priority,Status
+EPIC-01,Browse and Search,"Enable customers to discover products through categories, search, filters, and product details.",High,To Do
+EPIC-02,Cart and Checkout,Enable customers to manage cart contents and complete secure purchases.,Highest,To Do
+EPIC-03,Delivery Tracking,"Enable customers to monitor order status, delivery estimates, notifications, and history.",High,To Do
