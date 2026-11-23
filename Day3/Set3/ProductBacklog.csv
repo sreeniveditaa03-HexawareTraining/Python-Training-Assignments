@@ -1,0 +1,13 @@
+﻿Rank,Reference,Epic,Summary,User Story,Business Value (1-5),Effort (SP),Value/Effort,MoSCoW,Jira Priority,Status
+1,HAB-101,EP-01,Find Doctors by Specialty,"As a patient, I want to find doctors by specialty so that I can choose a suitable doctor.",5,3,1.67,Must Have,High,To Do
+2,HAB-102,EP-01,View Available Appointment Slots,"As a patient, I want to view available slots for a selected doctor so that I can choose a convenient time.",5,3,1.67,Must Have,High,To Do
+3,HAB-105,EP-02,Cancel Appointment,"As a patient, I want to cancel a future appointment so that the slot becomes available to others.",5,3,1.67,Must Have,High,To Do
+4,HAB-103,EP-01,Book an Appointment,"As a patient, I want to reserve an available appointment slot so that I can receive a confirmed consultation.",5,5,1.0,Must Have,High,To Do
+5,HAB-104,EP-02,Reschedule Appointment,"As a patient, I want to move my appointment to another available slot so that I can attend at a suitable time.",5,5,1.0,Must Have,High,To Do
+6,HAB-110,EP-04,Set Doctor Availability,"As a doctor, I want to publish my available consultation slots so that patients can book only valid times.",5,5,1.0,Must Have,High,To Do
+7,HAB-107,EP-03,Receive Booking Confirmation,"As a patient, I want to receive a booking confirmation notification so that I have my appointment details.",4,3,1.33,Should Have,Medium,To Do
+8,HAB-108,EP-03,Receive Upcoming Appointment Reminder,"As a patient, I want to receive a reminder 24 hours before my appointment so that I do not miss it.",4,3,1.33,Should Have,Medium,To Do
+9,HAB-111,EP-04,Block Unavailable Time,"As an authorized scheduler, I want to block an unbooked time slot so that it cannot be offered to patients.",4,3,1.33,Should Have,Medium,To Do
+10,HAB-112,EP-04,View Daily Appointment Schedule,"As a doctor, I want to view my daily appointment list so that I can prepare for consultations.",4,5,0.8,Should Have,Medium,To Do
+11,HAB-106,EP-02,View Appointment Changes,"As a patient, I want to view my appointment change history so that I can verify previous reschedules and cancellations.",2,3,0.67,Could Have,Low,To Do
+12,HAB-109,EP-03,Manage Reminder Preference,"As a patient, I want to enable or disable appointment reminders so that I control the notifications I receive.",2,5,0.4,Could Have,Low,To Do
