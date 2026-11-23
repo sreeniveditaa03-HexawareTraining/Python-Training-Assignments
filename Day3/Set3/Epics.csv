@@ -1,0 +1,5 @@
+﻿Epic Reference,Epic Name,Epic Goal
+EP-01,Appointment Booking,Patients discover available appointments and book a doctor.
+EP-02,Rescheduling and Cancellation,Patients change or cancel existing appointments with accurate slot release.
+EP-03,Appointment Reminders,Patients receive timely and appropriate appointment reminders.
+EP-04,Doctor Schedule Management,Doctors and authorized hospital staff maintain accurate appointment availability.
