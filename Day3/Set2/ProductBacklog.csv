@@ -1,0 +1,13 @@
+﻿Reference ID,Issue Type,Epic Reference,Epic Name,Summary,User Story,MoSCoW Priority,Story Points,Status,Jira Label
+OGD-101,Story,EPIC-01,Browse and Search,Browse Grocery Categories,"As a shopper, I want to browse groceries by category so that I can find items for my household.",Must Have,3,To Do,must-have
+OGD-102,Story,EPIC-01,Browse and Search,Search Grocery Items,"As a shopper, I want to search groceries by name so that I can find a specific item quickly.",Must Have,5,To Do,must-have
+OGD-103,Story,EPIC-01,Browse and Search,Filter by Availability,"As a shopper, I want to filter for in-stock items so that I can avoid unavailable products.",Should Have,3,To Do,should-have
+OGD-104,Story,EPIC-01,Browse and Search,View Product Details,"As a shopper, I want to view item price, pack size, and availability so that I can choose the correct grocery product.",Must Have,3,To Do,must-have
+OGD-105,Story,EPIC-02,Cart and Checkout,Add Item to Cart,"As a shopper, I want to add an in-stock grocery item to my cart so that I can purchase it at checkout.",Must Have,3,To Do,must-have
+OGD-106,Story,EPIC-02,Cart and Checkout,Update Cart Quantity,"As a shopper, I want to change the quantity of an item in my cart so that I can adjust my grocery order.",Should Have,3,To Do,should-have
+OGD-107,Story,EPIC-02,Cart and Checkout,Select Delivery Slot,"As a shopper, I want to select an available delivery slot so that I can receive groceries at a convenient time.",Should Have,5,To Do,should-have
+OGD-108,Story,EPIC-02,Cart and Checkout,Secure Checkout,"As a shopper, I want to pay for my grocery order securely so that I can confirm my purchase.",Must Have,8,To Do,must-have
+OGD-109,Story,EPIC-03,Delivery Tracking,View Order Status,"As a shopper, I want to view the current status of my grocery order so that I know its delivery progress.",Must Have,3,To Do,must-have
+OGD-110,Story,EPIC-03,Delivery Tracking,Track Delivery Partner,"As a shopper, I want to view the assigned delivery partner’s latest reported location so that I can anticipate arrival.",Should Have,5,To Do,should-have
+OGD-111,Story,EPIC-03,Delivery Tracking,Receive Delivery Notifications,"As a shopper, I want to receive a notification when my order is out for delivery so that I can prepare to receive it.",Could Have,3,To Do,could-have
+OGD-112,Story,EPIC-03,Delivery Tracking,View Delivery History,"As a shopper, I want to view past delivery status updates for an order so that I can review its progress.",Could Have,3,To Do,could-have
